@@ -5,4 +5,4 @@ x = 34
 
 z = x + y
 
-print("The answer is:", x)
+print("The answer is:", z)
